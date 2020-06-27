@@ -1,0 +1,11 @@
+.collection-item {
+    list-style: none;
+}
+
+.content-items {
+    display: flex;
+}
+.item-img img{
+    width: 45%;
+    height: auto;
+}
