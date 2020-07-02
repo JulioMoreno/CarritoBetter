@@ -8,7 +8,7 @@ Correr los siguientes comandos:
 
 ### `Descripción`
 
-Es una aplicación que muestra productos de Betterware y si se selecciona alguno se incluye en el carrito, cuando se da clic sobre el icono del "carrito" se muestra el listado de productos agregados en el carrito de compras.
+Es una aplicación que muestra productos y si se selecciona alguno se incluye en el carrito, cuando se da clic sobre el icono del "carrito" se muestra el listado de productos agregados en el carrito de compras.
 
 La aplicación corre en [http://localhost:3000](http://localhost:3000).
 
